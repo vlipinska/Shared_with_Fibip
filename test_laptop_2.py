@@ -1,4 +1,6 @@
-Tu powinno byc to
+Tu powinno byc to.
+
+A moze tez tamto.
 
 I'm adding stuff -V
 
